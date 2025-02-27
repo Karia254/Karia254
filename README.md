@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Joshua Karia  
 
-<!--
-**Karia254/Karia254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Data Analyst | Machine Learning Enthusiast**  
+🔹 Passionate about turning raw data into actionable insights & building intelligent solutions  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+-  Experienced in **data analysis** using Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel and PowerBI  
+-  Exploring **machine learning & AI** for automation and predictive analytics   
+-  Interested in **data-driven decision-making & AI applications in business**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Programming:** Python, JavaScript, SQL  
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Excel, PowerBI  
+- **Machine Learning:** Scikit-learn, TensorFlow (beginner)  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Web Development:** Django, HTML, CSS  
+
+### 📬 Let's Connect!  
+📧 joshuakaria2002@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/joshua-karia-7b2639275).  
+
